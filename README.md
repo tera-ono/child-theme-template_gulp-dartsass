@@ -1,7 +1,7 @@
 # 【DartSass】Gulp環境
 # FLOCSS設計（スマホファースト）
 # WordPress仕様
-#子テーマでdart-sassでCSSコンパイルが出来ます
+# 子テーマでdart-sassでCSSコンパイルが出来ます
 
 
 ## 環境
