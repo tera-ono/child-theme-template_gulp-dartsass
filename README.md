@@ -12,6 +12,7 @@
 - ダウンロードしたフォルダを開く
 - wp-content → themesフォルダに child-theme-template_gulp-dartsassフォルダ内の　sassフォルダ、gulpファイルや WordPressテーマフォルダを入れ込む
 -　　テーマフォルダを入れ込み　WordPress管理画面でテーマフォルダを入れ込み有効にする
+- themesフォルダをvscodeで開く
 - ターミナルを開き、 npm i とコマンドを入力
 - node_modulesとpackage-lock.jsonが生成されるのを確認する
 - 「 npx gulp 」とコマンドを入力すると動き出します
